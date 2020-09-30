@@ -6,6 +6,6 @@
  
 # Video Demonstration
 
-[![Youtube link of the project](https://img.youtube.com/vi/ZHmPZPqGsfc/0.jpg)](https://www.youtube.com/watch?v=ZHmPZPqGsfc)
+[![Youtube link of the project](https://i.imgur.com/jJzWOrR.png)](https://www.youtube.com/watch?v=ZHmPZPqGsfc)
 
 https://www.youtube.com/watch?v=ZHmPZPqGsfc
